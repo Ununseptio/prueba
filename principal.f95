@@ -5,7 +5,7 @@ program principal
     integer :: i, j, aux, ierr, met
     integer, parameter :: n=8
     integer :: X(n)
-
+kfekfoekf
     X=(/2,0,6,5,3,1,8,4/)
 
     open(unit=10, file='Ordenar_vector.txt', iostat=ierr) !Abrimos el fichero
