@@ -5,7 +5,7 @@ module ordenar
     subroutine ord_intercambio(X,n)
         integer :: i, j, aux
         integer :: X(n)
-
+cmmccm
         X=(/2,0,6,5,3,1,8,4/)
 
         do i=1,n                     !Recorremos la lista de numeros
